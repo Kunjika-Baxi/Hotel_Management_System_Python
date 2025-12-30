@@ -1,6 +1,6 @@
 # Hotel Management System
 
-A **Python + MySQL based management system** for hostel operations.  
+A **Python + MySQL based management system** for hotel operations.  
 It provides both **Admin** and **Guest** portals to handle room bookings, restaurant/bar orders, and billing in a unified way.
 
 ---
